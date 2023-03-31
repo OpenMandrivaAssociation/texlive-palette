@@ -1,6 +1,6 @@
 Name:		texlive-palette
 Version:	60119
-Release:	1
+Release:	2
 Summary:	Create palettes for colors and symbols that can be swapped in
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/palette
