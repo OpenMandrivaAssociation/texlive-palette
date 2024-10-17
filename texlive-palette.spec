@@ -3,7 +3,7 @@ Version:	60119
 Release:	2
 Summary:	Create palettes for colors and symbols that can be swapped in
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/palette
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/palette
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/palette.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/palette.doc.r%{version}.tar.xz
